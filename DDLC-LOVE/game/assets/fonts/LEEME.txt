@@ -1,0 +1,2 @@
+Fuente para el texto en PS3 (una sola para todo el juego).
+Orden de uso: Aller_Rg.ttf, si no ps3font.ttf, si no la fuente del sistema.
