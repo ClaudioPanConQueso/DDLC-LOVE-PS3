@@ -1,1 +1,4 @@
-
+1. Install Lua Player PS3 to your PS3 (https://store.brewology.com/ahomebrew.php?brewid=212)
+2. Extract DDLC-LOVE folder and app.lua to the root of a USB drive to be used for the PS3
+3. Insert the USB drive to the rightmost USB slot (dev_usb000)
+4. Launch Lua Player PS3
